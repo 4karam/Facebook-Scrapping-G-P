@@ -84,22 +84,7 @@ chrome --start-fullscreen --load-extension="path/to/extension"
 
 ---
 
-## 📚 Keywords (SEO Tags)
 
-```
-facebook group scraper
-facebook group post extractor
-chrome extension facebook posts
-scrape facebook groups
-facebook group content downloader
-facebook post extractor tool
-json exporter facebook group
-group post scraper extension
-facebook automation chrome extension
-facebook group parser tool
-```
-
----
 
 ## 🪪 License
 
