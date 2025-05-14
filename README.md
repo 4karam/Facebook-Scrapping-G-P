@@ -79,7 +79,7 @@ chrome --start-fullscreen --load-extension="path/to/extension"
 ## 🛠 Development
 
 - `manifest.json`: Metadata and permissions for the extension.
-- `script/content.js`: Core script that scrapes the DOM and injects the button.
+- `script/content.js`: Core script.
 - `assets/icon.png`: Icon used for the extension.
 
 ---
