@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Face-G.-P.-Scrap By 4karam",
+  "version": "1.0",
+  "description": "Scrapping facebook group's posts\non github : https://github.com/4karam.",
+  "permissions": ["scripting", "activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.facebook.com/groups/*"],
+      "js": ["./script/content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+      "16": "./assets/icon.png",
+      "48": "./assets/icon.png",
+      "128": "./assets/icon.png"
+}
+}
